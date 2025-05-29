@@ -14,45 +14,7 @@ PayGator is a robust payment middleware that integrates delivery platforms with 
 - Rate limiting and security features
 - Detailed logging and monitoring
 
-## Prerequisites
 
-- Node.js 16 or higher
-- MongoDB 4.4 or higher
-- Redis (optional, for caching)
-- RabbitMQ (optional, for message queuing)
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/paygator.git
-cd paygator
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Copy the environment file and configure your variables:
-```bash
-cp .env.example .env
-```
-
-4. Build the project:
-```bash
-npm run build
-```
-
-5. Start the server:
-```bash
-npm start
-```
-
-For development:
-```bash
-npm run dev
-```
 
 ## API Documentation
 
