@@ -116,25 +116,6 @@ Common status codes:
 - 429: Too Many Requests
 - 500: Internal Server Error
 
-## Development
-
-### Running Tests
-
-```bash
-npm test
-```
-
-### Linting
-
-```bash
-npm run lint
-```
-
-### Type Checking
-
-```bash
-npm run typecheck
-```
 
 ## Security Considerations
 
