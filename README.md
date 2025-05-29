@@ -1,5 +1,3 @@
-# paygator-v1
-
 # PayGator - Payment Middleware
 
 PayGator is a robust payment middleware that integrates delivery platforms with E2Payments, supporting eMola and M-Pesa mobile wallets in Mozambique.
